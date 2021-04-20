@@ -1,6 +1,6 @@
 {
   "name": "peacoat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Clever WikiWiki",
   "main": "index.js",
   "type": "module",
