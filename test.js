@@ -1,6 +1,6 @@
 #!/usr/bin/env -S node
 
-import db from './inxed.js';
+import db from './index.js';
 
 async function main(){
   let hello;
