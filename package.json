@@ -1,0 +1,25 @@
+{
+  "name": "peacoat",
+  "version": "1.0.0",
+  "description": "A Clever WikiWiki",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "save": "git add .; git commit -m 'New Release'; git push; npm version patch; npm publish; git push;",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catpea/peacoat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catpea/peacoat/issues"
+  },
+  "homepage": "https://github.com/catpea/peacoat#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
