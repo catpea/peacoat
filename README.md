@@ -1,2 +1,2 @@
 # peacoat
-A Clever WikiWiki
+Clever And Lightweight WikiWiki File System
